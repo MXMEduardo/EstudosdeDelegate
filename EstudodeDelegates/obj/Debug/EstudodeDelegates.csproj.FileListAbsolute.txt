@@ -1,0 +1,6 @@
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\Google Test\EstudodeDelegates\EstudodeDelegates\bin\Debug\EstudodeDelegates.exe.config
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\Google Test\EstudodeDelegates\EstudodeDelegates\obj\Debug\EstudodeDelegates.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\Google Test\EstudodeDelegates\EstudodeDelegates\bin\Debug\EstudodeDelegates.exe
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\Google Test\EstudodeDelegates\EstudodeDelegates\bin\Debug\EstudodeDelegates.pdb
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\Google Test\EstudodeDelegates\EstudodeDelegates\obj\Debug\EstudodeDelegates.exe
+C:\Users\eduardo.fonseca\Documents\SRJ\SGP\Fontes\Google Test\EstudodeDelegates\EstudodeDelegates\obj\Debug\EstudodeDelegates.pdb
